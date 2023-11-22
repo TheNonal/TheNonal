@@ -1,10 +1,11 @@
-## Привет, меня зовут Жоомарт
+# Привет, меня зовут Жоомарт
 
 
 ## 👨‍💻 Обо мне:
-    Я студент и начинающий тестировщик. 
-    Сейчас я учусь на 4 курсе колледжа по направлению: "Информационные технологии и программирование".
-    А так же нахожусь на стадии активного обучения такой замечательной профессии, как тестировщик.
+Я студент и начинающий тестировщик. </br>
+Сейчас я учусь на 4 курсе колледжа по направлению:"Информационные технологии и программирование".</br>
+А так же нахожусь на стадии активного обучения такой замечательной профессии, как тестировщик.
+
 
 
 ## Книги, которые я читал
@@ -33,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
   title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+  <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png" 
   title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256"
   title="postman" alt="postman" width="40" height="40"/>&nbsp
@@ -52,7 +53,7 @@
 ## В процессе изучения
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
+  <img src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png"
   title="kafka" alt="kafka" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
   title="docker" alt="docker" width="40" height="40"/>&nbsp
