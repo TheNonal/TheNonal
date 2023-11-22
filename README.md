@@ -53,7 +53,7 @@
 ## В процессе изучения
 
 <div>
-  <img src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
   title="kafka" alt="kafka" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
   title="docker" alt="docker" width="40" height="40"/>&nbsp
