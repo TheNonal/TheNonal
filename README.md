@@ -48,8 +48,6 @@
   title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png"
   title="devtool" alt="devtool" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elasticco_kibana_logo_icon_168223.png"
-  title="kibana" alt="kibana" width="40" height="40"/>&nbsp
 </div>
 
 ## В процессе изучения
